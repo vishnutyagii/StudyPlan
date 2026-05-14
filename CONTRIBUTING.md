@@ -41,7 +41,7 @@ Welcome to GSSoC! Here's how the contribution flow works for this project:
    ```
 4. **Create a feature branch** from `main`:
    ```bash
-   git checkout -b your-feature/issue-name
+   git checkout -b your-feature-name
    ```
 
 ---
